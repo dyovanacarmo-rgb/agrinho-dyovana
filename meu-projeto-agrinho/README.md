@@ -22,10 +22,9 @@ LINK GITHUB
 Desenvolvido por Dyovana Beatriz do Carmo para o concurso Agrinho 2026.
 
 ## Créditos
-Imagens: pesquisadas na internet.
-- links:
+Imagens encontradas na internet (Google):
+- imagem card-1 Agrofloresta: https://valor.globo.com/conteudo-de-marca/projeto-especial-esg/noticia/2023/08/09/cacau-surge-como-alternativa-agrossustentavel-na-amazonia.ghtml
+- imagem card-2 Gestão e Reuso de Água: https://agronarede.com.br/irrigacao-por-gotejamento-como-funciona-e-vantagens-para-a-lavoura/ 
 
 ## Tags
 agrinho
-
-
