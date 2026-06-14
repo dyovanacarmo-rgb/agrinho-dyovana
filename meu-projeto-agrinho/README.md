@@ -16,7 +16,7 @@ Site informativo e interativo sobre boas práticas sustentáveis no campo e dica
 - Botão interativo de Dicas com sugestões aleatórias
 
 ## Como acessar
-LINK GITHUB
+https://github.com/dyovanacarmo-rgb/agrinho-dyovana/
 
 ## Autoria
 Desenvolvido por Dyovana Beatriz do Carmo para o concurso Agrinho 2026.
